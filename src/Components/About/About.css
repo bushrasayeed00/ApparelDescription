@@ -1,0 +1,130 @@
+#about{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.renderComponents{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    padding: 1.5rem;
+}
+
+.aboutContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center; 
+    margin-bottom: 2.5rem;
+    padding: 0 2rem;
+    border-radius: 0.5rem;
+}
+
+.price{
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+  
+  
+.aboutTitle{
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding-top: 1rem;
+}
+
+.brandTitle{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.aboutDesc{
+    /* margin-bottom: 1rem; */
+    font-weight: 400;
+    font-size: 1rem;
+    max-width: 35rem;
+    padding: 0 0.5rem;
+}
+
+.aboutImg{
+    object-fit: contain;
+    height: 40vh;
+    width: 40vh;
+}
+
+.functionHeading{
+    max-width: 65rem;
+}
+
+.functionDesc{
+    max-width: 35rem;
+    /* margin-bottom: 2.5rem; */
+    padding: 0 2rem;
+}
+
+.washingInstruction{
+    background-color: rgb(50, 50, 50);
+    max-width: 35rem;
+    padding: 0 2rem;
+}
+
+.instructionBar{
+    display: flex;
+}
+
+.instructionImg{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin:0.5rem 0;
+}
+
+.careTitle{
+    margin-top:1rem ;
+}
+
+.instruction{
+    margin:0.5rem 0 ;
+    margin-left: 0.5rem;
+}
+
+
+
+.material{
+    padding: 0.5rem 0;
+}
+
+.colorPara{
+    max-width: 35rem;
+    padding: 0 2rem;
+}
+
+
+.embroideryPara{
+    padding: 0 2rem;
+    max-width: 35rem;
+}
+
+.sizeFit{
+    /* background-color: rgb(50, 50, 50); */
+    padding: 0.5rem 0;
+    max-width: 35rem;
+}
+
+.renderBtn{
+    align-items: center;
+}
+
+.btn{
+    margin: 0.8rem;
+    width: 8rem;
+    height: 3rem;
+    color: white;
+}
