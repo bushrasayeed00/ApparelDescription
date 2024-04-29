@@ -51,7 +51,7 @@ function About() {
             <div className="embroidery">
               {/* Embroidery section content */}
               <h1 className="embroideryTitle">Embroidery</h1>
-              <p className="embroideryPara">Embroidered with "Blind Faith" on the neck side. The left sleeve reads, "So truly where there is hardship, there is also ease," and the right sleeve carries the message, "A blind person who sees is better than a seeing person who is blind." </p>
+              <p className="embroideryPara">Embroidered with "Blind Faith" on the neck side. The left sleeve reads, "True vision does not require an eye." and the right sleeve carries the message, "A blind person who sees is better than a seeing person who is blind." </p>
             </div>
           )}
           {activeSection === 'functionGarment' && (
@@ -62,7 +62,7 @@ function About() {
                 <ul>
                   <li>Adaptive</li>
                   <li>Reversible</li>
-                  <li>Cane Holding Pocket(Capacity: 12 inches)</li>
+                  <li>Cane Holding Pocket(Capacity: 13 inches)</li>
                   <li>Segmented Pocket(Each Side)</li>
                   <li>Braille Embroidery</li>
                   <li>Side Stripes</li>
@@ -82,7 +82,7 @@ function About() {
               {/* Material care section content */}
               <div className="materialCare">
                 <h1 className="materialTitle">Material</h1>
-                <div className="material">Cotton: 80% <br /> Polyster: 20%</div>
+                <div className="material">Cotton: 80% <br /> Silk: 20%</div>
               </div>
             </div>
           )}
